@@ -4,7 +4,7 @@
 { "name": "海虹"   , "image" : "haihong.png" ,"department":"x","info":"test01"},
 { "name": "小狼" , "image" : "eileen.png","department":"x","info":"test01" },
 { "name": "潇雨" , "image" : "xiaoyu.png" ,"department":"x","info":"test01"},
-{ "name": "林可"   , "image" : "link.png" ,"department":"x","info":"test01"},
+{ "name": "林可"   , "image" : "link.png" ,"department":"游戏设计师","info":"曾经在上海“Boomgame”游戏公司参与制作手游《征服者》和《萌战无双》。有过多次参加GameJam的经验。"},
 { "name": "圣博纳" , "image" : "bona.png" ,"department":"x","info":"test01"},
 { "name": "黄鸿昊" , "image" : "honghao.png","department":"x","info":"test01" },
 { "name": "飘神" , "image" : "xppiao.png" ,"department":"x","info":"test01"},
